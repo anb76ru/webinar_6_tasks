@@ -6,8 +6,8 @@
 
 def global_function():
   msg = 1
- 
- # Здесь нужно написать код
+  def local_function():
+  # Здесь нужно написать код
    
   return msg
 
